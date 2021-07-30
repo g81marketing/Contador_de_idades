@@ -1,8 +1,4 @@
 
-
-
-
-
 function verificar() {
 
     let fano = document.getElementById('txtano')
